@@ -31,7 +31,7 @@ let config = {
     packageManager: "yarn"
   },
 
-  default_network: "basecoind-2",
+  default_network: "basecoind-demo2",
   google_analytics_uid: "UA-51029217-3",
   sentry_dsn_public:
     "https://4dee9f70a7d94cc0959a265c45902d84@sentry.io/288169",
